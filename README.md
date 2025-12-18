@@ -1,4 +1,4 @@
-# Kumparan Test API
+# Surabaya Test API
 
 Backend service berbasis Go (CloudWeGo Hertz) untuk mengelola data sensor dan perintah kontrol perangkat, dilengkapi integrasi PostgreSQL, MQTT (EMQX), dan dokumentasi Swagger.
 
